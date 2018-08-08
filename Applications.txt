@@ -1,0 +1,73 @@
+$ ls -1 /Applications/
+Android Studio.app
+App Store.app
+Automator.app
+Backup and Sync.app
+Calculator.app
+Calendar.app
+Chess.app
+Chrome Remote Desktop Host Uninstaller.app
+Contacts.app
+DVD Player.app
+Dashboard.app
+Dictionary.app
+Docker.app
+FaceTime.app
+FileZilla.app
+Firefox.app
+Font Book.app
+GitHub Desktop.app
+GoLand 1.0 EAP.app
+GoLand.app
+Google Chrome Canary.app
+Google Chrome.app
+GoogleJapaneseInput.localized
+Gyazo.app
+Image Capture.app
+IntelliJ IDEA CE.app
+Keynote.app
+Launchpad.app
+MacVim.app
+Mail.app
+Maps.app
+Messages.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Remote Desktop.app
+Microsoft Word.app
+Mission Control.app
+Night Owl.app
+Notes.app
+Numbers.app
+Pages.app
+Paintbrush.app
+Photo Booth.app
+Photos.app
+Preview.app
+QQ.app
+QuickTime Player.app
+Reminders.app
+Safari.app
+Sequel Pro.app
+Siri.app
+Slack.app
+Sourcetree.app
+Spotify.app
+Stickies.app
+Symantec Solutions
+System Preferences.app
+TeamViewer.app
+TextEdit.app
+The Unarchiver.app
+Time Machine.app
+Twitter.app
+Unity
+Utilities
+Visual Studio Code.app
+Wireshark.app
+Xcode.app
+iBooks.app
+iTunes.app
+zoom.us.app

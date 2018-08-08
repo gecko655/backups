@@ -1,0 +1,21 @@
+# ~/.gitignore
+# This is Git's per-user configuration file.
+[core]
+	excludesfile = $HOME/.gitignore_global
+	editor = /usr/bin/vim
+[merge]
+	ff = false
+[pull]
+	ff = only
+[alias]
+	alias = !git config --get-regexp '^alias\\.' | sed 's/alias\\.\\([^ ]*\\) \\(.*\\)/\\1\\\t => \\2/' | sort
+[pager]
+	log = /usr/local/share/git-core/contrib/diff-highlight/diff-highlight |less
+	show = /usr/local/share/git-core/contrib/diff-highlight/diff-highlight |less
+	diff = /usr/local/share/git-core/contrib/diff-highlight/diff-highlight |less
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+
