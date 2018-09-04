@@ -1,7 +1,7 @@
 # ~/.gitignore
 # This is Git's per-user configuration file.
 [core]
-	excludesfile = $HOME/.gitignore_global
+	excludesfile = $HOME/.gitignore_global #$HOMEの部分を絶対パスに書き換えないと動かない
 	editor = /usr/bin/vim
 [merge]
 	ff = false
